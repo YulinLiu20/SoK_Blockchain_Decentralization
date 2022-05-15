@@ -9,6 +9,7 @@ by **Luyao Zhang\*<sup>+</sup>, Xinshi Ma<sup>+</sup>, and Yulin Liu\*<sup>+</su
 
 <sup>+</sup>: joint first authors
 
+
 ![SoK: Blockchain Decentralization](https://github.com/SciEcon/SoK_Blockchain_Decentralization/blob/main/fig9.png)
 
 |   **Folder**   | **URL** | 
